@@ -10,6 +10,8 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          <h1>Fibonacci Calculator</h1>
+          <p>Calculate Fibonacci numbers with React and Express!</p>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
